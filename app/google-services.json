@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402183623677",
+    "project_id": "languagetranslatorapp-62021",
+    "storage_bucket": "languagetranslatorapp-62021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402183623677:android:d49982534fe6208dec7f94",
+        "android_client_info": {
+          "package_name": "com.sarfaraj.languagetranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402183623677-9etrs9ple95pvtbi5u2e2vrurr41slv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ9-pSvXi1MBfyhz2kgW9MfMLodBQsVVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402183623677-9etrs9ple95pvtbi5u2e2vrurr41slv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
