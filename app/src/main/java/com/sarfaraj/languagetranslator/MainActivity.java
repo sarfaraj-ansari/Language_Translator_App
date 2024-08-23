@@ -41,8 +41,8 @@ public class MainActivity extends AppCompatActivity {
 
         getSupportActionBar().hide();
 
-        ArrayAdapter<String> fromadapter=new ArrayAdapter<>(this,R.layout.support_simple_spinner_dropdown_item,fromLanguages);
-        binding.spinnerFirst.setAdapter(fromadapter);
+        ArrayAdapter<String> fromAdapter=new ArrayAdapter<>(this,R.layout.support_simple_spinner_dropdown_item,fromLanguages);
+        binding.spinnerFirst.setAdapter(fromAdapter);
         binding.spinnerFirst.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
